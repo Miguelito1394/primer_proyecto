@@ -1,0 +1,42 @@
+
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+	background-color:#9B9B9B;
+	background: url(img/fondo.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+}
+form{
+  background-color: black;
+  border: 5px solid #cdcdcd;
+  color: #fff;
+}
+
+#imagen{
+  width: 50%;
+  border: 3px solid #000;
+}
+.imagen img{
+  width: 350px;
+  float: right;
+  margin-right: 20px;
+  padding: 5px;
+}  
+form{
+  background-color: #fff;
+  color: #000;
+}
+#datos{
+  margin: 0px auto;
+  border:3px solid #000;
+  background-color: #cdcdcd;
+  border-radius: 15px;
+  text-align: center;
+  padding: 10px;
+}

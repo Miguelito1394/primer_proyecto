@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  body{
+      background-color:#fff;
+      
+  }
+  .seccion{
+    margin-left: 15px;
+  }
+  .espacio{
+      width: 100%;
+      height: 30px;
+      background-color: #CDCDCD;
+      color: #CDCDCD;
+  }
+  #nav ol li a{
+    text-decoration: none;
+    color: orange;
+    margin-left: 5px;
+  }
